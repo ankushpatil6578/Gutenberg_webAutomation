@@ -2,8 +2,9 @@
 pre-requisits
 
 1. Download all 4 files 
-2. Open file and add the executable path of chrome driver of your PC to every file 
-3. Then run file
+2. Install Python supported IDE, install selenium package
+3. Open file and add the executable path of chrome driver of your PC to every file 
+4. Then run each file
 
 * test_check_title.py
     1. Verifes page title and heading. 
